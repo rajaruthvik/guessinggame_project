@@ -1,6 +1,5 @@
 all: README.md
 
-README.md: guessinggame.sh
 
 	echo -n "\n**Make date**: " >> README.md
 	date >> README.md
